@@ -9,5 +9,5 @@ public class SkyproSpringCalculatorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SkyproSpringCalculatorApplication.class, args);
 	}
-
+// sdelal
 }
